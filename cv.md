@@ -27,7 +27,7 @@ My greatest passion is using my technical know-how to benefit other people and c
 * CSS3 (Bootstrap, SASS/LESS, BEM)
 * JavaScript (ES6+)
 * TypeScipt
-* Reac(hooks), Redux, MaterialUI
+* React, Redux, MaterialUI, hooks
 * Git/GitLab/GitHub/Bitbucket
 
 ---
